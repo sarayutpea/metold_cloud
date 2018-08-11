@@ -1,0 +1,11 @@
+{
+  "name": "metold_cloud",
+  "version": "1.0.0",
+  "description": "Metold firebase cloud function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sarayut jansoda",
+  "license": "ISC"
+}
